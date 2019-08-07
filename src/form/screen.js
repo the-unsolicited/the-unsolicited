@@ -20,7 +20,7 @@ const screens = {
   'day4': {
     id: "day4",
     back: "Screen-Day4.png",
-    button: "I HAVE MY CLIMBING GEAR RIGHT HERE SO LET’S SUMMIT THIS BUMP BEFORE LUNCH",
+    button: "I HAVE MY CLIMBING GEAR RIGHT HERE SO LET’S SUMMIT THIS BUMP BEFORE LUNCH",
     music: "Main.mp3",
   },
   'day5': {
