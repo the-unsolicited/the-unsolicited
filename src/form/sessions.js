@@ -1,0 +1,70 @@
+const sesstions = {
+  "day1": {
+    screen: "day1",
+    duration: "120",
+    forms: "charity",
+    count: "5",
+    wait: "true",
+  },
+  "day2": {
+    screen: "day2",
+    duration: "180",
+    forms: "charity, resort",
+    count: "8",
+  },
+  "day3": {
+    screen: "day3",
+    duration: "180",
+    forms: "charity, resort, credit, sweeps",
+    count: "15",
+  },
+  "day4": {
+    screen: "day4",
+    duration: "180",
+    forms: "charity, resort, credit, sweeps, screws, auto",
+    count: "15",
+  },
+  "day5": {
+    screen: "day5",
+    duration: "180",
+    forms: "charity, resort, credit, sweeps, screws, auto",
+    count: "15",
+  },
+  "day6": {
+    screen: "day6",
+    duration: "180",
+    forms: "resort, credit, sweeps, screws, auto",
+    count: "15",
+  },
+  "day7": {
+    screen: "day7",
+    duration: "30",
+    forms: "",
+    count: "0",
+  },
+  "day8": {
+    screen: "day8",
+    duration: "30",
+    forms: "",
+    count: "0",
+  },
+  "day9": {
+    screen: "day9",
+    duration: "120",
+    forms: "kia",
+    count: "15",
+    wait: "true",
+  },
+  "daya": {
+    screen: "daya",
+    duration: "120",
+    forms: "kia",
+    count: "15",
+  },
+  "dayb": {
+    screen: "dayb",
+    duration: "30",
+    forms: "",
+    count: "0",
+  },
+};
