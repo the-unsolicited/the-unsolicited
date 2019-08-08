@@ -5,7 +5,20 @@ To _____
 
 Dear _____
 
-You have
+You have been pre-approved to receive
+this special one time offer from UAI.
+
+Contact us today and save _____
+on your next auto insurance bill.
+
+Switch before _____ and receive
+a _____ worth _____
+
+`INDUSTRY LEADING RATES!`
+`#1 NATIONAL PROVIDER`
+`BEST BENEFIT SERVICE`
+
+CALL NOW! _____
 
 # Form Charity Paper
 To _____(Family)
@@ -53,9 +66,10 @@ Don't hesitate! Call _____ now!
 
 
 # Form Resort Paper
-
+Sunny Dreams Timeshare Resorts
 
 # Form Screws Paper
-
+Tight Screws Collection Agency
 
 # Form Sweeps Paper
+Allville Consumer Sweepstakes
